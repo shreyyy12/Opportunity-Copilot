@@ -10,11 +10,17 @@ It explains why they are eligible, provides step-by-step application guidance, t
 local language interaction, ensuring that no student misses life-changing opportunities due to lack of
 awareness.
 
-#List of features offered by the solution
-• AI opportunity matching
+# List of features offered by the solution
+• AI opportunity matching 
+
 • Smart eligibility score
+
 • Improve-your-chances suggestions
+
 • Deadline reminders
+
 • Application checklist
+
 • Resume-based recommendations
+
 • Voice input in local languages
